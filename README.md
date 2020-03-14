@@ -1,4 +1,5 @@
-#**bluetooth-proximity**#
+#**bluetooth-proximity**
+
 Simple python program to trigger X10 modules based on proximity to your bluetooth enabled cellphone.
 X10 is a protocol for communication among electronic devices used for home automation (domotics)
 
